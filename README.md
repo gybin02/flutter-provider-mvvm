@@ -1,5 +1,9 @@
 # flutter_provider_mvvm
 
+封装 Provider 实现类似： MVVM 功能
+
+参考： https://examplecode.cn/2020/05/09/flutter-provider-mvvm/
+
 A new Flutter application.
 
 ## Getting Started
